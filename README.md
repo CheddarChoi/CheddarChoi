@@ -1,8 +1,8 @@
 
 
 ### 👋 Hi, I’m @CheddarChoi
-- 🌱 I’m a junior researcher in KIXLAB, KAIST.
-- 👀 I’m interested in HCI(Human-Computer Interaction)
+- 🌱 I’m a 2nd year PhD student in KIXLAB, KAIST.
+- 👀 My research interest is in Human-Computer Interaction (HCI), especially in designing AI-infused creativity supporting tools.
 - 📫 More information on my [website](https://daeunchoi.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daeun-choi-1103/)](https://www.linkedin.com/in/daeun-choi-1103/)
