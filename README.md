@@ -1,7 +1,7 @@
 
 
 ### 👋 Hi, I’m @CheddarChoi
-- 🌱 I’m a 2nd year PhD student in KIXLAB, KAIST.
+- 🌱 I’m a 3rd-year PhD student in KIXLAB, KAIST.
 - 👀 My research interest is in Human-Computer Interaction (HCI), especially in designing AI-infused creativity supporting tools.
 - 📫 More information on my [website](https://daeunchoi.com/)
 
